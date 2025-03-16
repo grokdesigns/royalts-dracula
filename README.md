@@ -10,7 +10,9 @@
 	<a href="https://github.com/grokdesigns/royalts-dracula/contributors"><img src="https://img.shields.io/github/contributors/grokdesigns/royalts-dracula?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-
+<p align="center">
+	<img src="./assets/preview.webp" />
+</p>
 
 ## Usage
 
