@@ -18,4 +18,4 @@
 
 2. Click on Palette > Manage > Import
 
-3. Import a color profile from the royalts-output folder and press OK.
+3. Import the royalts-dracula.rtcp file from this repo and press OK.
